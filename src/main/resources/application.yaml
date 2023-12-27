@@ -1,0 +1,9 @@
+app:
+  init:
+    students:
+      - firstName: Ivan
+        lastName: Ivanov
+        age: 30
+      - firstName: Peter
+        lastName: Petrov
+        age: 45
